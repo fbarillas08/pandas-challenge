@@ -1,0 +1,18 @@
+There are various observations that are worthy of noting.  However, there are two salient observations to be made based on
+the following two factors:
+- School Size
+- Type of School
+
+There is a significant gap in performance based on the size of the school in Mathematics, Reading, and as both subjects
+taken together.  Small schools (Less than 1000 students) out perform Medium (up to 3000 students) and Large (Over 3000 students)
+in all metrics: average scores and percentage of students passing the tests.
+
+The Type of School (Charter vs District) seemed to also influence the performance of the students albeit not as dramatical as
+the previous observation.  Nevertheless, although the average scores in Math and Reading do not seem to be too far away from
+each other, significant differences in the % of students above the passing mark in Math and in the Overall Score occur.
+
+A third observation that has a surprising negative correlation is the level of investment per student (Budget per Student) against
+academic performance in Math, Reading, and their Aggreate.  The higher the investment made per student, the lower is the performance.
+This is something that requires further analysis because it is counterintuitive.
+
+Additional analyses would include identifying sensitivity of results against the gender.
